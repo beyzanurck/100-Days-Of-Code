@@ -1,0 +1,39 @@
+day 1: https://thonny.org/
+       https://pythontutor.com/
+day 2: https://waitbutwhy.com/2014/05/life-weeks.html
+day 3: https://ascii.co.uk/art
+day 4: https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators
+	 https://en.wikipedia.org/wiki/Mersenne_Twister
+	 https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences
+	 https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+day 6: https://reeborg.ca/index_en.html
+	 https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
+	 https://peps.python.org/pep-0008/
+
+day 7: https://developers.google.com/edu/python/lists#for-and-in
+day 8: https://en.wikipedia.org/wiki/Prime_number
+
+Day 14:http://patorjk.com/software/taag/#p=display&f=Dancing%20Font&t=Guess%20a%20number%20!!!
+
+Day 15: https://emojipedia.org/hot-beverage/
+	  https://support.microsoft.com/en-gb/windows/windows-keyboard-tips-and-tricks-588e0b72-0fff-6d3f-aeee-6e5116097942
+	  https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html
+ 
+Day 16: https://cs111.wellesley.edu/reference/colors
+
+https://pypi.org/
+https://pypi.org/project/prettytable/
+https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki
+https://pokemondb.net/pokedex/game/x-y
+
+
+https://www.rollingstone.com/culture/culture-news/steve-jobs-in-1994-the-rolling-stone-interview-231132/
+
+Day 17:
+	random questions: https://opentdb.com/api_config.php
+				https://opentdb.com	
+	turtle color: https://trinket.io/docs/colors
+
+
+		
+ 
